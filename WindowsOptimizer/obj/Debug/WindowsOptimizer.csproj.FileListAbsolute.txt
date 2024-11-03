@@ -1,0 +1,7 @@
+C:\Users\blabla\source\repos\WindowsOptimizer\WindowsOptimizer\bin\Debug\WindowsOptimizer.exe.config
+C:\Users\blabla\source\repos\WindowsOptimizer\WindowsOptimizer\bin\Debug\WindowsOptimizer.exe
+C:\Users\blabla\source\repos\WindowsOptimizer\WindowsOptimizer\bin\Debug\WindowsOptimizer.pdb
+C:\Users\blabla\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.csproj.AssemblyReference.cache
+C:\Users\blabla\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\blabla\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.exe
+C:\Users\blabla\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.pdb
